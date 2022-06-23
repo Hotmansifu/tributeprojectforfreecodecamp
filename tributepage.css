@@ -1,0 +1,116 @@
+@font-face {
+    font-family: EntezareZohoor2;
+    src: url('fonts/EntezareZohoor2.eot');
+    src: url('fonts/EntezareZohoor2.eot?') format('☺'),
+         url('fonts/EntezareZohoor2.woff') format('woff'),
+         url('fonts/EntezareZohoor2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  main{
+    background-color: #eeeeee;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+  }
+.tributename{
+    HEIGHT:100px;
+    width: auto;
+    background-color:#eeeeee;
+    text-align: center;
+    padding-top:50px; 
+}
+.tributename a{
+    font-family: 'Cinzel', serif;
+    font-size:75px;
+color:black;
+padding-top: 100px;
+
+}
+.image{
+   align-items: center;
+   display: block;
+   margin: 0 auto;
+   max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+   width: 75%;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   background-color:white;
+}
+.img-div{
+    height: 500px;
+    width: auto;
+    background-color: black;
+}
+.img-caption{
+    text-align: center;
+    background-color:#eeeeee;
+    padding-top: 20px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#headline{
+    margin:50px 0;
+    text-align: center;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+li {
+    margin: 16px 0;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
